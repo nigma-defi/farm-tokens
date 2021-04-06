@@ -1,10 +1,10 @@
 💵$VOID is a passive yield protocol that rewards all the ecosystem holders. Every transaction has a 6% fee. 💵
 
 💰Passive Yield | Reflect token 💰
- • Passive yield token
- • 6% tax on each tx
- • 3% redistributed among holders
- • 3% burned forever
+ - Passive yield token
+ - 6% tax on each tx
+ - 3% redistributed among holders
+ - 3% burned forever
 
 💰BUY TOKEN:  https://exchange.pancakeswap.finance/#/swap?inputCurrency=0x580CB646D82BCb5D985840be7b2f330461c21939
 * set slippage to 7%
