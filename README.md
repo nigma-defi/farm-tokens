@@ -38,6 +38,7 @@ Supply : 1,000,000
 
 Network : BSC
 
+
 **WE ARE RUG PROOF!**
 
 Liqudity tx:
